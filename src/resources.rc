@@ -1,0 +1,24 @@
+11 ICON "../resources/icon.ico"
+1 VERSIONINFO
+FILEVERSION     0,0,1,0
+PRODUCTVERSION  0,0,0,1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Michal Pazurek"
+      VALUE "FileDescription", "The generator was written as part of a school project"
+      VALUE "FileVersion", "0.1"
+      VALUE "InternalName", "DungeonGen"
+      VALUE "LegalCopyright", "(C) 2023 - Michal Pazurek"
+      VALUE "OriginalFilename", "DungeonGen.exe"
+      VALUE "ProductName", "Dungeon Generator"
+      VALUE "ProductVersion", "0.1"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
